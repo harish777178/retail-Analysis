@@ -1,4 +1,4 @@
-# retail-Analysis
+# Retail-Analysis
 
  📊 Power BI Dashboard & Data Insights – Key Resume Highlights
 •	Created interactive Power BI dashboards to visualize sales, customer behavior, and return patterns using slicers, filters, and KPIs for Retail Nova Inc.
