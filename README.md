@@ -32,3 +32,4 @@ o	🛍️ Top-selling product: Brand A Necessary
 
 Screenshot : 
            https://github.com/harish777178/retail-Analysis/blob/main/Retail%20dashboard%201.png
+           https://github.com/harish777178/retail-Analysis/blob/main/Retail%20dashboard%202.png
