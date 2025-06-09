@@ -29,3 +29,6 @@ o	🛍️ Top-selling product: Brand A Necessary
 
 •	Highlighted product categories with the highest return rates (e.g., Electronics) and most profitable ones (e.g., Personal Care), guiding product strategy.
 
+
+Screenshot : 
+           https://github.com/harish777178/retail-Analysis/blob/main/Retail%20dashboard%201.png
